@@ -89,6 +89,8 @@ dependencies {
   // For > 0.71, this will be replaced by `com.facebook.react:react-android:$version` by react gradle plugin
   //noinspection GradleDynamicVersion
   implementation "com.facebook.react:react-native:+"
+  // TensorFlow lite dependency
+  implementation 'org.tensorflow:tensorflow-lite:+'
 }
 
 if (isNewArchitectureEnabled()) {
