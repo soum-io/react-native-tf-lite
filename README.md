@@ -4,6 +4,8 @@ Run TensorFlow Lite models in React Native Android apps.
 
 ## Example
 
+Please see [the example app](https://github.com/soum-io/react-native-tf-lite/tree/main/example) to get started!
+
 <img src="demo.gif" width="300">
 
 ## Installation
