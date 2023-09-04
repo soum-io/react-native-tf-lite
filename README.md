@@ -1,4 +1,4 @@
-# react-native-tf-lite
+# react-native-tflite-classification
 
 Run TensorFlow Lite models in React Native Android apps.
 
@@ -11,14 +11,14 @@ Please see [the example app](https://github.com/soum-io/react-native-tf-lite/tre
 ## Installation
 
 ```sh
-npm install react-native-tf-lite
+npm install react-native-tflite-classification
 ```
 
 ## Usage
 
 ```js
 const RNFS = require('react-native-fs');
-import { Tflite } from 'react-native-tf-lite';
+import { Tflite } from 'react-native-tflite-classification';
 let tflite = new Tflite()
 
 // load model

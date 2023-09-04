@@ -59,6 +59,9 @@ buck-out/
 \.buckd/
 android/app/libs
 android/keystores/debug.keystore
+example/android/app/libs
+example/android/app/build/intermediates
+example/android/keystores/debug.keystore
 
 # Expo
 .expo/
